@@ -2,4 +2,6 @@
     <string name="app_name">I Am Poor</string>
     <string name="textview">TextView</string>
     <string name="coal">COAL</string>
+    <string name="BUT_I_AM_WORKING_ON_IT">But I am working on it!</string>
+    <string name="CLICK">Click!</string>
 </resources>
